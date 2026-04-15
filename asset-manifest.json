@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/si-referee-diagram/static/css/main.05704b27.css",
+    "main.js": "/si-referee-diagram/static/js/main.7a983157.js",
+    "static/js/453.d70329b3.chunk.js": "/si-referee-diagram/static/js/453.d70329b3.chunk.js",
+    "index.html": "/si-referee-diagram/index.html",
+    "main.05704b27.css.map": "/si-referee-diagram/static/css/main.05704b27.css.map",
+    "main.7a983157.js.map": "/si-referee-diagram/static/js/main.7a983157.js.map",
+    "453.d70329b3.chunk.js.map": "/si-referee-diagram/static/js/453.d70329b3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.05704b27.css",
+    "static/js/main.7a983157.js"
+  ]
+}
